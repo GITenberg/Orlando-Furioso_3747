@@ -1,5 +1,8 @@
 _repo: Orlando-Furioso_3747
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 3747-h/images/cover.jpg
 creator:
   author:
     agent_name: Ariosto, Lodovico
@@ -38,6 +41,8 @@ description: "Orlando Furioso (Italian: [orˈlando fuˈrjoːzo; -oːso]; The Fre
   \ epics, including Luigi Pulci's Morgante and Boiardo's Orlando Innamorato. Ariosto's\
   \ work is 38,736 lines long in total, making it one of the longest poems in European\
   \ literature.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3747#Orlando-Furioso
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2003-02-01'
 gutenberg_type: Text
